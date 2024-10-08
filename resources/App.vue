@@ -1,5 +1,6 @@
 <template>
     <div>
+        hehe kalaay
     <router-view></router-view>
     </div>
     </template>
